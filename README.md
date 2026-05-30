@@ -13,7 +13,7 @@
 | 标题| 标签 | 总结 | 链接|
 |-|-|-|-|
 |首考听阅双9的雷霆技巧| 内容2 | 内容3 | https://www.xiaohongshu.com/explore/6a0b033e00000000350203f1?note_flow_source=wechat&xsec_token=CBtMuF_INosMaCLGYj3Ufc37Fkf2F-5jRVYcuRAFt90es=|
-|06女大，45天，雅思8.0（3k字纯经验）||-|https://www.xiaohongshu.com/explore/69d7b62f000000001d018df6||
+|06女大，45天，雅思8.0（3k字纯经验）||-|[https://www.xiaohongshu.com/explore/69d7b62f000000001d018df6](http://xhslink.com/o/5IT6jokjTRG)||
 
   摘要：听力、阅读小技巧
   听力答题技巧：
