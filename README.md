@@ -18,6 +18,14 @@
 
 ## 我嘞个，这是不是没有换行
 
+
+首考听阅双9的雷霆技巧
+
+听力答题技巧：
+1. 拿到题目先读题，没读完也别慌，中间会有停顿可再次读题
+2. 填的内容：简单的名词，如人名、地名、电话号码
+3. P1 结构：两位对话者讨论日常话题
+
 06女大，45天，雅思8.0（3k字纯经验）https://www.xiaohongshu.com/explore/69d7b62f000000001d018df6?app_platform=ios&app_version=9.31.2&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBEVpwIxarh_19wFcKdCRlx8UNcd_QCXGn2oAoBJvROOM=&author_share=1&xhsshare=WeixinSession&shareRedId=ODo7MDhJSUo2NzUyOTgwNjZJOTc7NzhL&apptime=1780063742&share_id=3e4c15ee9d284ed287a381cb358a5c0b&code=5IT6jokjTRG
 
 【从零开始学英语】掌握这625个单词，让你的英语水平突飞猛进https://www.bilibili.com/video/BV14E411C7Hz/?spm_id_from=333.1387.homepage.video_card.click&vd_source=8b630905f2d04a001e926579498cb2db
@@ -25,3 +33,17 @@
 大家期待的雅思经验分享来了！如何20天突击雅思？ 写作题库和口语题库链接放在评论区啦https://v.douyin.com/9SpWwrEZYUc/ 
 
 5个雅思自学必备工具：雅思哥、题库与线上练习资源大汇整(2025最新)https://atlas.com.tw/ielts-self-learning-tools/
+
+
+# 历史
+1 裸考机考雅思
+赛后总结：
+1 考雅思时间一定要看好，考试时间和报到时间是不一样的，这次去的时候实测真实报到时间可以略晚于理想报到时间，可能是在国内+纸质签到的缘故
+2 口试我认为可以分为两块
+
+前期就是泛泛的自我介绍闲聊，大块是后期。
+
+考官会试探你对哪些主题有兴趣有了解，然后沿着这个话题一直和你探讨下去，或者后面换一个，大家常说的p2，也就是1min时间笔记的那个就是这个主题的开始；
+  像是这次考官先是问我，你有没有看过space and stars相关的电影，对它有没有了解，我说我忘了电影名字和细节，又问我对space有什么看法，我说我有同学了解，然后又转话题到其他主题了；
+  现在想想原本考官应该是想围绕space来展开这次雅思口语考试，而且后面问了 有没有一件事改变了你很久以来的想法，围绕这个探讨了2-3次，最后问的是青少年什么时候形成自己的看法，这个讨论了2-3次，最后结束。
+
