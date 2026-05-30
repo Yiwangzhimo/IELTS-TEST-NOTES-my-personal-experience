@@ -1,4 +1,4 @@
-# -
+# 记录考雅思
 为了自己记录一下，方便溯源、维护和提升，顺便分享给大家。
 
 
@@ -8,6 +8,15 @@
 来个人教教怎么markdown，一分钟速成的那种，github写readme是markdown对吧，有没有实时渲染的，平行显示，左边原代码，右边实时渲染出来的那种。
 
 首考听阅双9的雷霆技巧https://www.xiaohongshu.com/explore/6a0b033e00000000350203f1?note_flow_source=wechat&xsec_token=CBtMuF_INosMaCLGYj3Ufc37Fkf2F-5jRVYcuRAFt90es=
+
+  
+  摘要：听力、阅读小技巧
+  听力答题技巧：
+  1 拿到题目先读题，没读完也别慌，中间会有停顿可再次读题
+  2 填的内容 简单的名词 如人名、地名、电话号码；**#是否真实**
+  3 P1结构，两位对话者讨论日常话题
+
+## 我嘞个，这是不是没有换行
 
 06女大，45天，雅思8.0（3k字纯经验）https://www.xiaohongshu.com/explore/69d7b62f000000001d018df6?app_platform=ios&app_version=9.31.2&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBEVpwIxarh_19wFcKdCRlx8UNcd_QCXGn2oAoBJvROOM=&author_share=1&xhsshare=WeixinSession&shareRedId=ODo7MDhJSUo2NzUyOTgwNjZJOTc7NzhL&apptime=1780063742&share_id=3e4c15ee9d284ed287a381cb358a5c0b&code=5IT6jokjTRG
 
